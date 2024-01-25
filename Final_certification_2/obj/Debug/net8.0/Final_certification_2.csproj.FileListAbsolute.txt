@@ -1,0 +1,15 @@
+C:\project\HomeWork\Final_certification_2\bin\Debug\net8.0\Final_certification_2.exe
+C:\project\HomeWork\Final_certification_2\bin\Debug\net8.0\Final_certification_2.deps.json
+C:\project\HomeWork\Final_certification_2\bin\Debug\net8.0\Final_certification_2.runtimeconfig.json
+C:\project\HomeWork\Final_certification_2\bin\Debug\net8.0\Final_certification_2.dll
+C:\project\HomeWork\Final_certification_2\bin\Debug\net8.0\Final_certification_2.pdb
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\Final_certification_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\Final_certification_2.AssemblyInfoInputs.cache
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\Final_certification_2.AssemblyInfo.cs
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\Final_certification_2.csproj.CoreCompileInputs.cache
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\Final_certification_2.sourcelink.json
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\Final_certification_2.dll
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\refint\Final_certification_2.dll
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\Final_certification_2.pdb
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\Final_certification_2.genruntimeconfig.cache
+C:\project\HomeWork\Final_certification_2\obj\Debug\net8.0\ref\Final_certification_2.dll
